@@ -1,0 +1,11 @@
+{
+  "name": "node-fussy-examples-sonar",
+  "version": "0.0.0",
+  "description": "Categorization of sonar data into mines or rocks using Fussy",
+  "main": "bench.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
