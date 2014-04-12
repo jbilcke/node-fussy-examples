@@ -1,0 +1,8 @@
+[
+    [ "class", { "w": "diseased", "n": "other" }],
+    [ "GLCM_pan", "Number" ],
+    [ "Mean_Green", "Number" ],
+    [ "Mean_Red", "Number" ],
+    [ "Mean_NIR", "Number" ],
+    [ "SD_pan", "Number" ]
+]

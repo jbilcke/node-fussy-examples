@@ -11,9 +11,11 @@ The dataset is really small, making it a good choice to experiment with Fussy.
 
 ## Performance
 
-### bench.coffee (pre-determined training and testing datasets)
+#### pre-determined training and testing datasets
 
 Performance: 92.31% (8 errors for 104 tests)
+
+Tested with Fussy 0.1.1
 
 ## Files
 
@@ -31,7 +33,7 @@ Performance: 92.31% (8 errors for 104 tests)
 
  - info.txt: contains information about the original dataset
  - README.md: this file
- - package.json: define dependencies
+ - package.json: defines dependencies
 
 ## Dataset Information
 
