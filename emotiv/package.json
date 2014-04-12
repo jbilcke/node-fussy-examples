@@ -1,0 +1,11 @@
+{
+  "name": "node-fussy-examples-emotiv",
+  "version": "0.0.0",
+  "description": "Detecting eye state from Emotiv EEG Headset using Fussy",
+  "main": "bench.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}

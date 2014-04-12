@@ -1,0 +1,17 @@
+[
+    [ "AF3", "Number" ],
+    [ "F7", "Number" ],
+    [ "F3", "Number" ],
+    [ "FC5", "Number" ],
+    [ "T7", "Number" ],
+    [ "P7", "Number" ],
+    [ "O1", "Number" ],
+    [ "O2", "Number" ],
+    [ "P8", "Number" ],
+    [ "T8", "Number" ],
+    [ "FC6", "Number" ],
+    [ "F4", "Number" ],
+    [ "F8", "Number" ],
+    [ "AF4", "Number" ],
+    [ "eye", {"0": "open", "1": "closed"} ]
+]
