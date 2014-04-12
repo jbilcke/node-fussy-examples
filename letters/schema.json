@@ -1,0 +1,19 @@
+[
+    [ "letter" ],
+    [ "x-box", "Number" ],
+    [ "y-box", "Number" ],
+    [ "width", "Number" ],
+    [ "height", "Number" ],
+    [ "onpix", "Number" ],
+    [ "x-bar", "Number" ],
+    [ "y-bar", "Number" ],
+    [ "x2bar", "Number" ],
+    [ "y2bar", "Number" ],
+    [ "xybar", "Number" ],
+    [ "x2ybr", "Number" ],
+    [ "xy2br", "Number" ],
+    [ "x-ege", "Number" ],
+    [ "xegvy", "Number" ],
+    [ "y-ege", "Number" ],
+    [ "yegvx", "Number" ]
+]

@@ -1,0 +1,11 @@
+{
+  "name": "node-fussy-examples-letters",
+  "version": "0.0.0",
+  "description": "Character recognition using Fussy",
+  "main": "bench.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
